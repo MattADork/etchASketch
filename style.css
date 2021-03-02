@@ -1,0 +1,24 @@
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align:center;
+}
+
+.button-container {
+  text-align: center;
+}
+
+#grid-container{
+  display: grid;
+  margin: 2rem auto;
+  border: 2px solid black;
+  min-height: 500px;
+  max-width: 500px;
+}
+
+.gridSquare {
+  border: 1px;
+  background-color: white;
+}
